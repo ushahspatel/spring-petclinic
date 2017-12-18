@@ -6,6 +6,7 @@
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
+## Running petclinic locally
 
 Clone the repo:
 
